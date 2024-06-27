@@ -3,9 +3,9 @@ layout: post
 title: Programación por programar
 subtitle: Las cosas podrían complicarse (más).
 author: P.A.
-cover-img: /assets/img/glasses.jpg
-thumbnail-img: /assets/img/glasses.jpg
-share-img: /assets/img/glasses.jpg
+cover-img: /assets/img/glasses2.jpg
+thumbnail-img: /assets/img/glasses2.jpg
+share-img: /assets/img/glasses2.jpg
 ---
 El detalle de llevar a cabo tan grande proyecto, es el pasar de las ideas y teorización a la aplicación sin sufrir de este tan bien denominado "choque/golpe de realidad" cuando uno se da cuenta de que las necesidades tanto técnicas o logísticas simplemente son más de las que uno esperaba (y la brecha no suele ser poca).
 
