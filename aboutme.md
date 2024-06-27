@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mí
-subtitle: Conociendo el producto
+subtitle: Not knowing me.
 ---
 
 My name is Inigo Montoya. I have the following qualities:
