@@ -21,7 +21,11 @@ navbar-links:
   Sobre mi: "aboutme"
   Recursos:
     - Descargas: "https://andradepm.github.io/2024-06-29-descargas.md"
+    - Versiones anteriores: 
     - Preguntas rápidas: "https://www.markdowntutorial.com/"
+  Colaboraciones:
+    - Instituciones: "https://es.wikipedia.org/wiki/Consorcio_de_Universidades_(Per%C3%BA)"
+    - Organizaciones: 
   
 
 ################
